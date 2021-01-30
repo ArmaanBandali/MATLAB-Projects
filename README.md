@@ -1,3 +1,3 @@
 "# MATLAB-Projects" 
 
-//Projects and demonstrations written in MATLAB
+Projects and demonstrations written in MATLAB
